@@ -1,11 +1,13 @@
 # Church of Love web releases
 
-[Build 106 source ZIP](Church-of-Love-Source-106.zip) · [Source history through build 106](Church-of-Love-History-through-106.bundle)
+[Build 109 source ZIP](Church-of-Love-Source-109.zip) · [Source history through build 109](Church-of-Love-History-through-109.bundle)
 
 Dates use Vietnam time (UTC+7). The first seven entries use hosting release numbers. Each source revision can be checked out from the bundle.
 
 | Source date | Version | Source revision | What changed |
 | --- | --- | --- | --- |
+| 2026-11-17 | Build 109 | `d93c631` | Added page language, descriptive title, search and sharing metadata, canonical URL, robots.txt and sitemap. Preserved build 108 icons and the chapel experience. |
+| 2026-11-17 | Build 108 | `e82ce5c` | Existing hosted revision recovered before SEO work; includes favicon and touch icons. |
 | 2026-11-16 | Build 106 | `403de82` | Made “You can confess now.” a button that enters the private room directly. Lighting the candle alone leaves the visitor at the candles. |
 | 2026-11-16 | Build 105 | `715f483` | Displayed the confirmation “You can confess now.” after lighting a chapel candle. |
 | 2026-11-16 | Build 104 | `767a35f` | Added opt-in Google Tag Manager and Microsoft Clarity with masked page text and analytics preferences. |
